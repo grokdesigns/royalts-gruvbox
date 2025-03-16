@@ -1,6 +1,6 @@
 <h3 align="center">
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px"/>
-	Gruvbox for <a href="https://www.royalapps.com/ts/win/features">Royal TS</a>
+	<a href="https://github.com/morhetz/gruvbox">Gruvbox</a> for <a href="https://www.royalapps.com/ts/win/features">Royal TS</a>
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px"/>
 </h3>
 
